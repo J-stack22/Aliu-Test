@@ -3,7 +3,7 @@
         "author": "JemIX",
         "name": "Midgnight",
         "version": "1.0.0",
-        "license": "JLA",
+        "license": "MIT",
     },
     "background": {},
     "fonts": {},
