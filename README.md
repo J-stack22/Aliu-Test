@@ -39,7 +39,7 @@ This theme is released under the MIT License. Please refer to the [LICENSE](http
 
 ## Credits
 
-This theme was created by [Jem] and inspired by the Aliucord community. Special thanks to refact0r for inspiring me to port this to Aliucord.
+This theme was created by Jem and inspired by the Aliucord community. Special thanks to refact0r for inspiring me to port this to Aliucord.
 
 Enjoy your Midnight-themed Aliucord experience!
 
